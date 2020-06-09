@@ -1,0 +1,31 @@
+/* .adopted {
+    fill: var(--adopted);
+}
+
+.current {
+    fill: var(--current-residents);
+}
+
+.deceased{
+    fill: var(--deceased);
+}
+
+.missing {
+    fill: var(--missing);
+}
+
+.rto {
+    fill: var(--rto)
+}
+
+.survived {
+    fill: var(--survived)
+}
+
+.transferred {
+    fill: var(--transferred)
+} */
+
+.c2-legend {
+    cursor: pointer;
+}

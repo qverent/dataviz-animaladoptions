@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Animals of the Austin Animal Centre</title>
+        <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/master.css">
+        <link rel="stylesheet" href="css/chart2.css">
+        <link rel="stylesheet" href="css/semantic-overrides.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+    </head>
+    <body>
+        <div class="ui grid container">
+            <div class="sixteen column row">
+                <h1>Animals of the Austin Animal Centre</h1>
+            </div>
+            <div class="sixteen colum row">
+                <div class="sixteen wide column">
+                    <p>After establishing a no-kill implementation plan in 2010, Austin is the largest "no kill" community in the US. The current save rate at the Austin Animal Centre is <a href="https://www.austinpetsalive.org/about/our-story" target="_blankd">97%.</a></p>
+                    <p>The Austin Animal Centre works with many rescue partners who help rehome and care for about <a href="https://www.austintexas.gov/department/rescue-partners">34%</a> of shelter residents. Adoption is still the backbone of any community's animal support strategy, and is one of the best outcomes possible for shelter residents. This app was created as an aid for shelter managers to identify trends in their animals' outcomes. Using this tool, they can identify and give under-adopted groups a helping hand with targeted media campaigns or create specific rehoming  partnerships.</p>
+                    <p>This app uses <a href="https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes">data on Austin Animal Shelter</a>, from October 2013 to December 2019.</p>
+                </div>
+                <div class="sixteen wide column">
+                        <div class="ui ordered three steps">
+                            <a class="step" href="#chart-1">
+                                <div class="content">
+                                <div class="title">
+                                    What timeframe do you want to see?
+                                </div>
+                                <div class="description">
+                                    <ul>
+                                        <li>
+                                            See how adoption rates have fluctuated over time
+                                        </li>
+                                        <li>
+                                            View shelter statistics during this time
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </a>
+                        <a class="step" href="#chart-3-1">
+                            <div class="content">
+                                <div class="title">
+                                    What do incoming animals look like?
+                                </div>
+                                <div class="description">
+                                    <ul>
+                                        <li>
+                                            See age and colour distribution of shelter residents
+                                        </li>
+                                        <li>
+                                            Hover over each bar to see a sample of animals from that group
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </a>
+                            <a class="step" href="#chart-2">
+                                <div class="content">
+                                    <div class="title">
+                                        Who is in the shelter during this time?
+                                    </div>
+                                    <div class="description">
+                                        <ul>
+                                            <li>
+                                                Hover over each animal (dot) for more information
+                                            </li>
+                                            <li>
+                                                Click on the legend to filter animals based on outcome
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="sixteen wide column">
+                    <div id="chart-1-stat-box" class="ui card fluid">
+                        <div class="content">
+                            <h2 id="chart-1-stat-box-date" style="font-size: 1.6em; font-weight: 700">Start</h2>
+                            <div class="ui three column grid">
+                                <div class="column">
+                                    <h3><span class="legend-cat"></span>Cat</h3>
+                                    <span id="statistic-cat-residents">0</span> residents, 
+                                    <span id="statistic-cat-intakes"> 0</span> intakes,   
+                                    <span id="statistic-cat-deaths"> 0</span> deaths
+                                </div>
+                                <div class="column">
+                                    <h3><span class="legend-dog"></span>Dogs</h3>
+                                    <span id="statistic-dog-residents">0</span> residents,  
+                                    <span id="statistic-dog-intakes"> 0</span> intakes, 
+                                    <span id="statistic-dog-deaths"> 0</span> deaths
+                                </div>
+                                <div class="column">
+                                    <h3><span class="legend-other"></span>Others</h3>
+                                    <span id="statistic-other-residents">0</span> residents,  
+                                    <span id="statistic-other-intakes"> 0</span> intakes,  
+                                    <span id="statistic-other-deaths"> 0</span> deaths
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sixteen column row">
+                <!-- <div class="one wide column">
+                    <div>
+                        <legend>Legend</legend>
+                            <fieldset>
+                                <label for="Cats">
+                                    <div id="Cats" class="Cat box" ></div>
+                                    Cats</label>
+                                <label for="Dogs">
+                                        <div id="Dogs" class="Dog box"></div>
+                                        Dogs</label>
+                                <label for="Other">
+                                    <div id="Other" class="Other box"></div>
+                                    Other</label>
+                            </fieldset>
+                    </div>
+                </div>                 -->
+                <div class="five wide column">
+                    <h2>Adoption rate (%)</h2>
+                    <div id="chart-1"></div>
+                </div>
+                <div class="five wide column">
+                    <h2>Animal Age</h2>
+                    <div id="chart-3-1"></div>
+                </div>
+                <div class="six wide column">
+                    <h2>Animal Colour</h2>
+                    <div id="chart-3-2"></div>
+                </div>
+            </div>
+            <div class="sixteen column row" id="chart2">
+                <div class="three wide column">
+                    <div>
+                        <span class="title">
+                            Click to filter by outcome:
+                            <svg id="c2-legend"></svg>
+                        </span>
+                    </div>
+                </div>
+                <div class="thirteen wide column">
+                    <h2 style="margin-bottom: 0px">Shelter Animal Outcomes</h2>
+                    <div id="chart-2">
+                        <svg id="c2-vis"></svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter2/1.5.2/crossfilter.min.js"></script>
+        <!-- <script src="utils/chart1Preprocessor.js"></script> -->
+        <script src="js/chart1.js"></script>
+        <script src="js/c2vis.js"></script>
+        <script src="js/chart2.js"></script>
+        <script src="js/histogram.js"></script>
+        <script src="js/chart3.js"></script>
+        <script src="js/controller.js"></script>
+
+    </body>
+</html>

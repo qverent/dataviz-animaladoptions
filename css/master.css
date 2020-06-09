@@ -1,0 +1,172 @@
+:root {
+    --background: #ffffff;
+    /* --font: #a48e65; */
+    --accent-light: #dfe0df;
+    --accent-prime: #537cb5;
+    --accent-dark: black; /*For now*/
+    --cat: #f2b6b6;
+    --dog: #b6bcc2;
+    --other: #b58153;
+    /*
+    --cat: #ffc2b2;
+    --dog: #c7c1b7;
+    --other: #b58153;*/
+    --current-residents: #fec31a;
+    --adopted: #c3fcf2;
+    --deceased: #649B92;
+    --transferred: #a3c9fe;
+    --rto: #5f86b7;
+    --missing: #006B60;
+}
+
+rect:hover {
+    stroke: black;
+    stroke-width: 3px;
+}
+
+#chart-1 rect:hover {
+    stroke: white;
+    stroke-width: 1px;
+}
+
+#chart2 circle:hover {
+    stroke: black;
+    stroke-width: 3px;
+}
+
+.selectedClass {
+    stroke: black;
+    stroke-width: 3px;
+}
+
+body {
+    background-color: var(--background) !important;
+    color: var(--font) !important;
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 12pt !important;
+    font-weight: 300 !important;    
+}
+
+h1 {
+    color: var(--accent-prime);
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 3em !important;
+    font-weight: 700 !important;
+}
+
+h2 {
+    color: var(--accent-prime);
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 1.6em !important;
+    font-weight: 700 !important;
+}
+
+h3 {
+    color: var(--accent-prime);
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 1.2em !important;
+    font-weight: 700 !important;
+    margin-bottom: 5px !important;
+}
+
+.axis-label {
+    fill: var(--font);
+    font-size: 1.1em;
+}
+
+.legend-cat {
+    background-color: var(--cat);
+    border-radius: 50%;
+    display: inline-block;
+    height: 18px;
+    margin-right: 5px;
+    width: 18px;
+}
+
+.legend-dog {
+    background-color: var(--dog);
+    border-radius: 50%;
+    display: inline-block;
+    height: 18px;
+    margin-right: 5px;
+    width: 18px;
+}
+
+.legend-other {
+    background-color: var(--other);
+    border-radius: 50%;
+    display: inline-block;
+    height: 18px;
+    margin-right: 5px;
+    width: 18px;
+}
+
+.line {
+    fill: none;
+    stroke-width: 2;
+}
+
+.line.cat {
+    stroke: var(--cat);
+}
+
+.line.dog {
+    stroke: var(--dog);
+}
+
+.line.other {
+    stroke: var(--other);
+}
+
+.interactive {
+    background-color: var(--accent-light);
+    font-weight: 400;
+}
+
+.hide {
+    display: none;
+}
+
+.highlighted {
+    background-color: var(--accent-light);
+    fill: var(--accent-light);
+}
+
+rect.selection {
+    fill: var(--accent-light);
+    fill-opacity: 0.5;
+    stroke: var(--accent-light);
+    stroke-opacity: 0.5;
+}
+
+.Cat {
+    fill: var(--cat);
+    background-color: var(--cat);
+}
+
+.Dog {
+    fill: var(--dog);
+    background-color: var(--dog);
+}
+
+.Other {
+    fill: var(--other);
+    background-color: var(--other);
+}
+
+.box {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 2px solid;
+}
+
+div.tooltip {
+    position: absolute;			
+    text-align: center;			
+    padding: 5px;				
+    font: 12px sans-serif;		
+    background: burlywood;
+    border-radius: 5px;
+    pointer-events: none;
+}

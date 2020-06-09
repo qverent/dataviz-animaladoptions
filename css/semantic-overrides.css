@@ -1,0 +1,41 @@
+.ui > *{
+    color: var(--font) !important;
+    font-family: 'Comfortaa', cursive !important;
+}
+
+.ui.card {
+    background-color: var(--background) !important;
+}
+
+.step, ::after {
+    background-color: var(--background) !important;
+}
+
+.ui.step, ::before {
+    color: var(--accent-prime) !important;
+}
+
+.description {
+    color: var(--font) !important;
+}
+
+.title {
+    color: var(--accent-prime) !important;
+}
+
+.value {
+    font-size: 2rem !important
+}
+
+#chart-1-stat-box .value {
+    color: var(--accent-prime) !important;
+    font-size: 2rem !important;
+}
+
+#chart-1-stat-box .label {
+    font-weight: 400;
+}
+
+ul {
+    padding-left: 12px;
+}

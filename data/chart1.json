@@ -1,0 +1,1817 @@
+[
+  {
+    "key": "Dog",
+    "value": [
+      {
+        "timestamp": "Tue Oct 01 2013 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 171,
+        "deceased": 55,
+        "residentCount": 825,
+        "outcomes": 574,
+        "intakes": 825
+      },
+      {
+        "timestamp": "Fri Nov 01 2013 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 241,
+        "deceased": 46,
+        "residentCount": 959,
+        "outcomes": 669,
+        "intakes": 708
+      },
+      {
+        "timestamp": "Sun Dec 01 2013 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 322,
+        "deceased": 64,
+        "residentCount": 1026,
+        "outcomes": 746,
+        "intakes": 736
+      },
+      {
+        "timestamp": "Wed Jan 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 281,
+        "deceased": 48,
+        "residentCount": 1027,
+        "outcomes": 694,
+        "intakes": 746
+      },
+      {
+        "timestamp": "Sat Feb 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 277,
+        "deceased": 48,
+        "residentCount": 1015,
+        "outcomes": 646,
+        "intakes": 681
+      },
+      {
+        "timestamp": "Sat Mar 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 322,
+        "deceased": 61,
+        "residentCount": 1138,
+        "outcomes": 767,
+        "intakes": 769
+      },
+      {
+        "timestamp": "Tue Apr 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 260,
+        "deceased": 39,
+        "residentCount": 1105,
+        "outcomes": 711,
+        "intakes": 734
+      },
+      {
+        "timestamp": "Thu May 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 312,
+        "deceased": 59,
+        "residentCount": 1211,
+        "outcomes": 791,
+        "intakes": 816
+      },
+      {
+        "timestamp": "Sun Jun 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 281,
+        "deceased": 52,
+        "residentCount": 1167,
+        "outcomes": 725,
+        "intakes": 747
+      },
+      {
+        "timestamp": "Tue Jul 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 361,
+        "deceased": 69,
+        "residentCount": 1234,
+        "outcomes": 811,
+        "intakes": 791
+      },
+      {
+        "timestamp": "Fri Aug 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 392,
+        "deceased": 46,
+        "residentCount": 1110,
+        "outcomes": 762,
+        "intakes": 687
+      },
+      {
+        "timestamp": "Mon Sep 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 305,
+        "deceased": 47,
+        "residentCount": 1111,
+        "outcomes": 737,
+        "intakes": 762
+      },
+      {
+        "timestamp": "Wed Oct 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 288,
+        "deceased": 65,
+        "residentCount": 1083,
+        "outcomes": 708,
+        "intakes": 709
+      },
+      {
+        "timestamp": "Sat Nov 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 259,
+        "deceased": 60,
+        "residentCount": 1072,
+        "outcomes": 710,
+        "intakes": 697
+      },
+      {
+        "timestamp": "Mon Dec 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 343,
+        "deceased": 51,
+        "residentCount": 1103,
+        "outcomes": 802,
+        "intakes": 741
+      },
+      {
+        "timestamp": "Thu Jan 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 323,
+        "deceased": 37,
+        "residentCount": 1027,
+        "outcomes": 686,
+        "intakes": 726
+      },
+      {
+        "timestamp": "Sun Feb 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 302,
+        "deceased": 50,
+        "residentCount": 1014,
+        "outcomes": 689,
+        "intakes": 673
+      },
+      {
+        "timestamp": "Sun Mar 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 297,
+        "deceased": 46,
+        "residentCount": 1034,
+        "outcomes": 657,
+        "intakes": 708
+      },
+      {
+        "timestamp": "Wed Apr 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 257,
+        "deceased": 45,
+        "residentCount": 1133,
+        "outcomes": 701,
+        "intakes": 754
+      },
+      {
+        "timestamp": "Fri May 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 368,
+        "deceased": 62,
+        "residentCount": 1220,
+        "outcomes": 869,
+        "intakes": 788
+      },
+      {
+        "timestamp": "Mon Jun 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 319,
+        "deceased": 48,
+        "residentCount": 1191,
+        "outcomes": 763,
+        "intakes": 840
+      },
+      {
+        "timestamp": "Wed Jul 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 315,
+        "deceased": 46,
+        "residentCount": 1093,
+        "outcomes": 719,
+        "intakes": 665
+      },
+      {
+        "timestamp": "Sat Aug 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 329,
+        "deceased": 33,
+        "residentCount": 1057,
+        "outcomes": 700,
+        "intakes": 683
+      },
+      {
+        "timestamp": "Tue Sep 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 296,
+        "deceased": 29,
+        "residentCount": 1025,
+        "outcomes": 701,
+        "intakes": 668
+      },
+      {
+        "timestamp": "Thu Oct 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 273,
+        "deceased": 17,
+        "residentCount": 1030,
+        "outcomes": 644,
+        "intakes": 705
+      },
+      {
+        "timestamp": "Sun Nov 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 268,
+        "deceased": 16,
+        "residentCount": 1086,
+        "outcomes": 721,
+        "intakes": 700
+      },
+      {
+        "timestamp": "Tue Dec 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 303,
+        "deceased": 25,
+        "residentCount": 1004,
+        "outcomes": 647,
+        "intakes": 635
+      },
+      {
+        "timestamp": "Fri Jan 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 295,
+        "deceased": 13,
+        "residentCount": 1057,
+        "outcomes": 706,
+        "intakes": 700
+      },
+      {
+        "timestamp": "Mon Feb 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 309,
+        "deceased": 21,
+        "residentCount": 1026,
+        "outcomes": 664,
+        "intakes": 675
+      },
+      {
+        "timestamp": "Tue Mar 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 295,
+        "deceased": 29,
+        "residentCount": 1067,
+        "outcomes": 705,
+        "intakes": 705
+      },
+      {
+        "timestamp": "Fri Apr 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 273,
+        "deceased": 16,
+        "residentCount": 1030,
+        "outcomes": 634,
+        "intakes": 668
+      },
+      {
+        "timestamp": "Sun May 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 353,
+        "deceased": 27,
+        "residentCount": 1245,
+        "outcomes": 807,
+        "intakes": 849
+      },
+      {
+        "timestamp": "Wed Jun 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 368,
+        "deceased": 25,
+        "residentCount": 1151,
+        "outcomes": 715,
+        "intakes": 713
+      },
+      {
+        "timestamp": "Fri Jul 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 370,
+        "deceased": 13,
+        "residentCount": 1059,
+        "outcomes": 676,
+        "intakes": 622
+      },
+      {
+        "timestamp": "Mon Aug 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 322,
+        "deceased": 13,
+        "residentCount": 1031,
+        "outcomes": 615,
+        "intakes": 647
+      },
+      {
+        "timestamp": "Thu Sep 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 322,
+        "deceased": 15,
+        "residentCount": 1060,
+        "outcomes": 665,
+        "intakes": 644
+      },
+      {
+        "timestamp": "Sat Oct 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 316,
+        "deceased": 18,
+        "residentCount": 1002,
+        "outcomes": 628,
+        "intakes": 607
+      },
+      {
+        "timestamp": "Tue Nov 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 309,
+        "deceased": 16,
+        "residentCount": 1019,
+        "outcomes": 676,
+        "intakes": 645
+      },
+      {
+        "timestamp": "Thu Dec 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 355,
+        "deceased": 17,
+        "residentCount": 1008,
+        "outcomes": 681,
+        "intakes": 664
+      },
+      {
+        "timestamp": "Sun Jan 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 362,
+        "deceased": 13,
+        "residentCount": 1005,
+        "outcomes": 692,
+        "intakes": 678
+      },
+      {
+        "timestamp": "Wed Feb 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 365,
+        "deceased": 11,
+        "residentCount": 1013,
+        "outcomes": 730,
+        "intakes": 698
+      },
+      {
+        "timestamp": "Wed Mar 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 247,
+        "deceased": 7,
+        "residentCount": 979,
+        "outcomes": 674,
+        "intakes": 696
+      },
+      {
+        "timestamp": "Sat Apr 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 280,
+        "deceased": 8,
+        "residentCount": 951,
+        "outcomes": 632,
+        "intakes": 646
+      },
+      {
+        "timestamp": "Mon May 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 355,
+        "deceased": 13,
+        "residentCount": 1077,
+        "outcomes": 774,
+        "intakes": 755
+      },
+      {
+        "timestamp": "Thu Jun 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 299,
+        "deceased": 16,
+        "residentCount": 1010,
+        "outcomes": 658,
+        "intakes": 705
+      },
+      {
+        "timestamp": "Sat Jul 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 345,
+        "deceased": 14,
+        "residentCount": 1064,
+        "outcomes": 725,
+        "intakes": 712
+      },
+      {
+        "timestamp": "Tue Aug 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 336,
+        "deceased": 6,
+        "residentCount": 1031,
+        "outcomes": 680,
+        "intakes": 691
+      },
+      {
+        "timestamp": "Fri Sep 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 293,
+        "deceased": 14,
+        "residentCount": 1139,
+        "outcomes": 682,
+        "intakes": 787
+      },
+      {
+        "timestamp": "Sun Oct 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 349,
+        "deceased": 13,
+        "residentCount": 1136,
+        "outcomes": 814,
+        "intakes": 679
+      },
+      {
+        "timestamp": "Wed Nov 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 240,
+        "deceased": 6,
+        "residentCount": 912,
+        "outcomes": 571,
+        "intakes": 590
+      },
+      {
+        "timestamp": "Fri Dec 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 303,
+        "deceased": 8,
+        "residentCount": 982,
+        "outcomes": 630,
+        "intakes": 641
+      },
+      {
+        "timestamp": "Mon Jan 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 306,
+        "deceased": 8,
+        "residentCount": 985,
+        "outcomes": 622,
+        "intakes": 633
+      },
+      {
+        "timestamp": "Thu Feb 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 285,
+        "deceased": 17,
+        "residentCount": 984,
+        "outcomes": 599,
+        "intakes": 619
+      },
+      {
+        "timestamp": "Thu Mar 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 350,
+        "deceased": 13,
+        "residentCount": 1089,
+        "outcomes": 685,
+        "intakes": 702
+      },
+      {
+        "timestamp": "Sun Apr 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 305,
+        "deceased": 8,
+        "residentCount": 1103,
+        "outcomes": 685,
+        "intakes": 698
+      },
+      {
+        "timestamp": "Tue May 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 334,
+        "deceased": 10,
+        "residentCount": 1110,
+        "outcomes": 719,
+        "intakes": 692
+      },
+      {
+        "timestamp": "Fri Jun 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 330,
+        "deceased": 8,
+        "residentCount": 1072,
+        "outcomes": 667,
+        "intakes": 679
+      },
+      {
+        "timestamp": "Sun Jul 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 345,
+        "deceased": 13,
+        "residentCount": 1126,
+        "outcomes": 725,
+        "intakes": 721
+      },
+      {
+        "timestamp": "Wed Aug 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 387,
+        "deceased": 8,
+        "residentCount": 1099,
+        "outcomes": 732,
+        "intakes": 698
+      },
+      {
+        "timestamp": "Sat Sep 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 311,
+        "deceased": 12,
+        "residentCount": 1133,
+        "outcomes": 735,
+        "intakes": 765
+      },
+      {
+        "timestamp": "Mon Oct 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 331,
+        "deceased": 5,
+        "residentCount": 1223,
+        "outcomes": 724,
+        "intakes": 823
+      },
+      {
+        "timestamp": "Thu Nov 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 138,
+        "deceased": 5,
+        "residentCount": 1174,
+        "outcomes": 506,
+        "intakes": 675
+      },
+      {
+        "timestamp": "Sat Dec 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 412,
+        "deceased": 6,
+        "residentCount": 1366,
+        "outcomes": 774,
+        "intakes": 698
+      },
+      {
+        "timestamp": "Tue Jan 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 469,
+        "deceased": 11,
+        "residentCount": 1358,
+        "outcomes": 844,
+        "intakes": 764
+      },
+      {
+        "timestamp": "Fri Feb 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 354,
+        "deceased": 10,
+        "residentCount": 1194,
+        "outcomes": 681,
+        "intakes": 681
+      },
+      {
+        "timestamp": "Fri Mar 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 415,
+        "deceased": 18,
+        "residentCount": 1363,
+        "outcomes": 851,
+        "intakes": 851
+      },
+      {
+        "timestamp": "Mon Apr 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 354,
+        "deceased": 15,
+        "residentCount": 1301,
+        "outcomes": 811,
+        "intakes": 785
+      },
+      {
+        "timestamp": "Wed May 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 376,
+        "deceased": 20,
+        "residentCount": 1327,
+        "outcomes": 825,
+        "intakes": 836
+      },
+      {
+        "timestamp": "Sat Jun 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 421,
+        "deceased": 27,
+        "residentCount": 1377,
+        "outcomes": 946,
+        "intakes": 876
+      },
+      {
+        "timestamp": "Mon Jul 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 389,
+        "deceased": 20,
+        "residentCount": 1356,
+        "outcomes": 872,
+        "intakes": 925
+      },
+      {
+        "timestamp": "Thu Aug 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 478,
+        "deceased": 20,
+        "residentCount": 1324,
+        "outcomes": 884,
+        "intakes": 837
+      },
+      {
+        "timestamp": "Sun Sep 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 398,
+        "deceased": 17,
+        "residentCount": 1280,
+        "outcomes": 830,
+        "intakes": 844
+      },
+      {
+        "timestamp": "Tue Oct 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 387,
+        "deceased": 11,
+        "residentCount": 1308,
+        "outcomes": 839,
+        "intakes": 863
+      },
+      {
+        "timestamp": "Fri Nov 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 404,
+        "deceased": 11,
+        "residentCount": 1271,
+        "outcomes": 793,
+        "intakes": 810
+      },
+      {
+        "timestamp": "Sun Dec 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 501,
+        "deceased": 6,
+        "residentCount": 1243,
+        "outcomes": 854,
+        "intakes": 790
+      }
+    ]
+  },
+  {
+    "key": "Cat",
+    "value": [
+      {
+        "timestamp": "Tue Oct 01 2013 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 66,
+        "deceased": 43,
+        "residentCount": 522,
+        "outcomes": 323,
+        "intakes": 522
+      },
+      {
+        "timestamp": "Fri Nov 01 2013 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 137,
+        "deceased": 27,
+        "residentCount": 600,
+        "outcomes": 334,
+        "intakes": 401
+      },
+      {
+        "timestamp": "Sun Dec 01 2013 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 211,
+        "deceased": 27,
+        "residentCount": 577,
+        "outcomes": 462,
+        "intakes": 311
+      },
+      {
+        "timestamp": "Wed Jan 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 115,
+        "deceased": 24,
+        "residentCount": 419,
+        "outcomes": 308,
+        "intakes": 304
+      },
+      {
+        "timestamp": "Sat Feb 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 83,
+        "deceased": 24,
+        "residentCount": 363,
+        "outcomes": 244,
+        "intakes": 251
+      },
+      {
+        "timestamp": "Sat Mar 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 76,
+        "deceased": 29,
+        "residentCount": 455,
+        "outcomes": 319,
+        "intakes": 336
+      },
+      {
+        "timestamp": "Tue Apr 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 89,
+        "deceased": 33,
+        "residentCount": 680,
+        "outcomes": 428,
+        "intakes": 544
+      },
+      {
+        "timestamp": "Thu May 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 135,
+        "deceased": 43,
+        "residentCount": 1116,
+        "outcomes": 604,
+        "intakes": 864
+      },
+      {
+        "timestamp": "Sun Jun 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 271,
+        "deceased": 60,
+        "residentCount": 1298,
+        "outcomes": 764,
+        "intakes": 786
+      },
+      {
+        "timestamp": "Tue Jul 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 422,
+        "deceased": 65,
+        "residentCount": 1377,
+        "outcomes": 993,
+        "intakes": 843
+      },
+      {
+        "timestamp": "Fri Aug 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 306,
+        "deceased": 49,
+        "residentCount": 1038,
+        "outcomes": 782,
+        "intakes": 654
+      },
+      {
+        "timestamp": "Mon Sep 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 205,
+        "deceased": 46,
+        "residentCount": 927,
+        "outcomes": 655,
+        "intakes": 669
+      },
+      {
+        "timestamp": "Wed Oct 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 206,
+        "deceased": 41,
+        "residentCount": 848,
+        "outcomes": 569,
+        "intakes": 576
+      },
+      {
+        "timestamp": "Sat Nov 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 175,
+        "deceased": 47,
+        "residentCount": 742,
+        "outcomes": 493,
+        "intakes": 463
+      },
+      {
+        "timestamp": "Mon Dec 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 204,
+        "deceased": 45,
+        "residentCount": 572,
+        "outcomes": 414,
+        "intakes": 323
+      },
+      {
+        "timestamp": "Thu Jan 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 125,
+        "deceased": 28,
+        "residentCount": 440,
+        "outcomes": 320,
+        "intakes": 282
+      },
+      {
+        "timestamp": "Sun Feb 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 95,
+        "deceased": 24,
+        "residentCount": 363,
+        "outcomes": 246,
+        "intakes": 243
+      },
+      {
+        "timestamp": "Sun Mar 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 83,
+        "deceased": 35,
+        "residentCount": 428,
+        "outcomes": 281,
+        "intakes": 311
+      },
+      {
+        "timestamp": "Wed Apr 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 62,
+        "deceased": 27,
+        "residentCount": 660,
+        "outcomes": 407,
+        "intakes": 513
+      },
+      {
+        "timestamp": "Fri May 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 158,
+        "deceased": 75,
+        "residentCount": 1229,
+        "outcomes": 674,
+        "intakes": 976
+      },
+      {
+        "timestamp": "Mon Jun 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 296,
+        "deceased": 107,
+        "residentCount": 1619,
+        "outcomes": 941,
+        "intakes": 1064
+      },
+      {
+        "timestamp": "Wed Jul 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 490,
+        "deceased": 69,
+        "residentCount": 1428,
+        "outcomes": 945,
+        "intakes": 749
+      },
+      {
+        "timestamp": "Sat Aug 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 304,
+        "deceased": 50,
+        "residentCount": 1252,
+        "outcomes": 773,
+        "intakes": 768
+      },
+      {
+        "timestamp": "Tue Sep 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 252,
+        "deceased": 35,
+        "residentCount": 1199,
+        "outcomes": 699,
+        "intakes": 720
+      },
+      {
+        "timestamp": "Thu Oct 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 222,
+        "deceased": 46,
+        "residentCount": 1260,
+        "outcomes": 661,
+        "intakes": 760
+      },
+      {
+        "timestamp": "Sun Nov 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 297,
+        "deceased": 32,
+        "residentCount": 1054,
+        "outcomes": 586,
+        "intakes": 454
+      },
+      {
+        "timestamp": "Tue Dec 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 278,
+        "deceased": 15,
+        "residentCount": 764,
+        "outcomes": 471,
+        "intakes": 296
+      },
+      {
+        "timestamp": "Fri Jan 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 215,
+        "deceased": 24,
+        "residentCount": 582,
+        "outcomes": 373,
+        "intakes": 289
+      },
+      {
+        "timestamp": "Mon Feb 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 131,
+        "deceased": 22,
+        "residentCount": 477,
+        "outcomes": 274,
+        "intakes": 268
+      },
+      {
+        "timestamp": "Tue Mar 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 115,
+        "deceased": 18,
+        "residentCount": 516,
+        "outcomes": 283,
+        "intakes": 313
+      },
+      {
+        "timestamp": "Fri Apr 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 89,
+        "deceased": 24,
+        "residentCount": 874,
+        "outcomes": 472,
+        "intakes": 641
+      },
+      {
+        "timestamp": "Sun May 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 166,
+        "deceased": 58,
+        "residentCount": 1286,
+        "outcomes": 599,
+        "intakes": 884
+      },
+      {
+        "timestamp": "Wed Jun 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 349,
+        "deceased": 40,
+        "residentCount": 1357,
+        "outcomes": 675,
+        "intakes": 670
+      },
+      {
+        "timestamp": "Fri Jul 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 466,
+        "deceased": 25,
+        "residentCount": 1221,
+        "outcomes": 721,
+        "intakes": 538
+      },
+      {
+        "timestamp": "Mon Aug 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 286,
+        "deceased": 27,
+        "residentCount": 1230,
+        "outcomes": 663,
+        "intakes": 730
+      },
+      {
+        "timestamp": "Thu Sep 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 273,
+        "deceased": 32,
+        "residentCount": 1189,
+        "outcomes": 726,
+        "intakes": 621
+      },
+      {
+        "timestamp": "Sat Oct 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 214,
+        "deceased": 33,
+        "residentCount": 995,
+        "outcomes": 536,
+        "intakes": 532
+      },
+      {
+        "timestamp": "Tue Nov 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 278,
+        "deceased": 26,
+        "residentCount": 897,
+        "outcomes": 500,
+        "intakes": 438
+      },
+      {
+        "timestamp": "Thu Dec 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 292,
+        "deceased": 14,
+        "residentCount": 792,
+        "outcomes": 484,
+        "intakes": 395
+      },
+      {
+        "timestamp": "Sun Jan 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 233,
+        "deceased": 24,
+        "residentCount": 626,
+        "outcomes": 416,
+        "intakes": 318
+      },
+      {
+        "timestamp": "Wed Feb 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 168,
+        "deceased": 13,
+        "residentCount": 454,
+        "outcomes": 306,
+        "intakes": 244
+      },
+      {
+        "timestamp": "Wed Mar 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 97,
+        "deceased": 20,
+        "residentCount": 473,
+        "outcomes": 312,
+        "intakes": 324
+      },
+      {
+        "timestamp": "Sat Apr 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 121,
+        "deceased": 23,
+        "residentCount": 705,
+        "outcomes": 395,
+        "intakes": 543
+      },
+      {
+        "timestamp": "Mon May 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 229,
+        "deceased": 35,
+        "residentCount": 1188,
+        "outcomes": 615,
+        "intakes": 878
+      },
+      {
+        "timestamp": "Thu Jun 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 338,
+        "deceased": 59,
+        "residentCount": 1420,
+        "outcomes": 716,
+        "intakes": 847
+      },
+      {
+        "timestamp": "Sat Jul 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 416,
+        "deceased": 37,
+        "residentCount": 1345,
+        "outcomes": 782,
+        "intakes": 641
+      },
+      {
+        "timestamp": "Tue Aug 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 398,
+        "deceased": 34,
+        "residentCount": 1097,
+        "outcomes": 748,
+        "intakes": 532
+      },
+      {
+        "timestamp": "Fri Sep 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 271,
+        "deceased": 37,
+        "residentCount": 965,
+        "outcomes": 541,
+        "intakes": 616
+      },
+      {
+        "timestamp": "Sun Oct 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 254,
+        "deceased": 31,
+        "residentCount": 905,
+        "outcomes": 553,
+        "intakes": 481
+      },
+      {
+        "timestamp": "Wed Nov 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 238,
+        "deceased": 21,
+        "residentCount": 756,
+        "outcomes": 435,
+        "intakes": 403
+      },
+      {
+        "timestamp": "Fri Dec 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 261,
+        "deceased": 19,
+        "residentCount": 646,
+        "outcomes": 429,
+        "intakes": 325
+      },
+      {
+        "timestamp": "Mon Jan 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 161,
+        "deceased": 16,
+        "residentCount": 463,
+        "outcomes": 308,
+        "intakes": 246
+      },
+      {
+        "timestamp": "Thu Feb 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 139,
+        "deceased": 19,
+        "residentCount": 405,
+        "outcomes": 274,
+        "intakes": 248
+      },
+      {
+        "timestamp": "Thu Mar 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 104,
+        "deceased": 15,
+        "residentCount": 420,
+        "outcomes": 269,
+        "intakes": 289
+      },
+      {
+        "timestamp": "Sun Apr 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 92,
+        "deceased": 38,
+        "residentCount": 584,
+        "outcomes": 331,
+        "intakes": 433
+      },
+      {
+        "timestamp": "Tue May 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 160,
+        "deceased": 41,
+        "residentCount": 1062,
+        "outcomes": 513,
+        "intakes": 809
+      },
+      {
+        "timestamp": "Fri Jun 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 363,
+        "deceased": 31,
+        "residentCount": 1353,
+        "outcomes": 757,
+        "intakes": 804
+      },
+      {
+        "timestamp": "Sun Jul 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 355,
+        "deceased": 20,
+        "residentCount": 1302,
+        "outcomes": 722,
+        "intakes": 705
+      },
+      {
+        "timestamp": "Wed Aug 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 393,
+        "deceased": 16,
+        "residentCount": 1081,
+        "outcomes": 663,
+        "intakes": 501
+      },
+      {
+        "timestamp": "Sat Sep 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 243,
+        "deceased": 22,
+        "residentCount": 1000,
+        "outcomes": 547,
+        "intakes": 582
+      },
+      {
+        "timestamp": "Mon Oct 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 257,
+        "deceased": 24,
+        "residentCount": 973,
+        "outcomes": 505,
+        "intakes": 520
+      },
+      {
+        "timestamp": "Thu Nov 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 286,
+        "deceased": 12,
+        "residentCount": 842,
+        "outcomes": 482,
+        "intakes": 373
+      },
+      {
+        "timestamp": "Sat Dec 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 277,
+        "deceased": 9,
+        "residentCount": 625,
+        "outcomes": 410,
+        "intakes": 265
+      },
+      {
+        "timestamp": "Tue Jan 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 185,
+        "deceased": 7,
+        "residentCount": 511,
+        "outcomes": 312,
+        "intakes": 296
+      },
+      {
+        "timestamp": "Fri Feb 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 122,
+        "deceased": 16,
+        "residentCount": 478,
+        "outcomes": 275,
+        "intakes": 279
+      },
+      {
+        "timestamp": "Fri Mar 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 143,
+        "deceased": 14,
+        "residentCount": 593,
+        "outcomes": 343,
+        "intakes": 391
+      },
+      {
+        "timestamp": "Mon Apr 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 102,
+        "deceased": 28,
+        "residentCount": 860,
+        "outcomes": 454,
+        "intakes": 609
+      },
+      {
+        "timestamp": "Wed May 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 258,
+        "deceased": 32,
+        "residentCount": 1475,
+        "outcomes": 672,
+        "intakes": 1069
+      },
+      {
+        "timestamp": "Sat Jun 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 484,
+        "deceased": 74,
+        "residentCount": 1780,
+        "outcomes": 1042,
+        "intakes": 976
+      },
+      {
+        "timestamp": "Mon Jul 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 386,
+        "deceased": 46,
+        "residentCount": 1590,
+        "outcomes": 871,
+        "intakes": 852
+      },
+      {
+        "timestamp": "Thu Aug 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 410,
+        "deceased": 32,
+        "residentCount": 1533,
+        "outcomes": 906,
+        "intakes": 814
+      },
+      {
+        "timestamp": "Sun Sep 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 331,
+        "deceased": 21,
+        "residentCount": 1445,
+        "outcomes": 754,
+        "intakes": 817
+      },
+      {
+        "timestamp": "Tue Oct 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 347,
+        "deceased": 40,
+        "residentCount": 1388,
+        "outcomes": 740,
+        "intakes": 697
+      },
+      {
+        "timestamp": "Fri Nov 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 356,
+        "deceased": 27,
+        "residentCount": 1146,
+        "outcomes": 653,
+        "intakes": 505
+      },
+      {
+        "timestamp": "Sun Dec 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 345,
+        "deceased": 16,
+        "residentCount": 808,
+        "outcomes": 503,
+        "intakes": 327
+      }
+    ]
+  },
+  {
+    "key": "Other",
+    "value": [
+      {
+        "timestamp": "Tue Oct 01 2013 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 65,
+        "residentCount": 81,
+        "outcomes": 78,
+        "intakes": 81
+      },
+      {
+        "timestamp": "Fri Nov 01 2013 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 57,
+        "residentCount": 68,
+        "outcomes": 66,
+        "intakes": 65
+      },
+      {
+        "timestamp": "Sun Dec 01 2013 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 1,
+        "deceased": 76,
+        "residentCount": 89,
+        "outcomes": 85,
+        "intakes": 87
+      },
+      {
+        "timestamp": "Wed Jan 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 0,
+        "deceased": 52,
+        "residentCount": 63,
+        "outcomes": 57,
+        "intakes": 59
+      },
+      {
+        "timestamp": "Sat Feb 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 0,
+        "deceased": 81,
+        "residentCount": 105,
+        "outcomes": 93,
+        "intakes": 99
+      },
+      {
+        "timestamp": "Sat Mar 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 3,
+        "deceased": 207,
+        "residentCount": 243,
+        "outcomes": 226,
+        "intakes": 231
+      },
+      {
+        "timestamp": "Tue Apr 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 1,
+        "deceased": 90,
+        "residentCount": 121,
+        "outcomes": 115,
+        "intakes": 104
+      },
+      {
+        "timestamp": "Thu May 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 75,
+        "residentCount": 91,
+        "outcomes": 82,
+        "intakes": 85
+      },
+      {
+        "timestamp": "Sun Jun 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 5,
+        "deceased": 75,
+        "residentCount": 99,
+        "outcomes": 91,
+        "intakes": 90
+      },
+      {
+        "timestamp": "Tue Jul 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 1,
+        "deceased": 59,
+        "residentCount": 84,
+        "outcomes": 73,
+        "intakes": 76
+      },
+      {
+        "timestamp": "Fri Aug 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 94,
+        "residentCount": 130,
+        "outcomes": 114,
+        "intakes": 119
+      },
+      {
+        "timestamp": "Mon Sep 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 68,
+        "residentCount": 85,
+        "outcomes": 75,
+        "intakes": 69
+      },
+      {
+        "timestamp": "Wed Oct 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 1,
+        "deceased": 58,
+        "residentCount": 81,
+        "outcomes": 69,
+        "intakes": 71
+      },
+      {
+        "timestamp": "Sat Nov 01 2014 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 35,
+        "residentCount": 55,
+        "outcomes": 44,
+        "intakes": 43
+      },
+      {
+        "timestamp": "Mon Dec 01 2014 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 1,
+        "deceased": 29,
+        "residentCount": 60,
+        "outcomes": 51,
+        "intakes": 49
+      },
+      {
+        "timestamp": "Thu Jan 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 0,
+        "deceased": 22,
+        "residentCount": 41,
+        "outcomes": 30,
+        "intakes": 32
+      },
+      {
+        "timestamp": "Sun Feb 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 0,
+        "deceased": 33,
+        "residentCount": 50,
+        "outcomes": 41,
+        "intakes": 39
+      },
+      {
+        "timestamp": "Sun Mar 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 2,
+        "deceased": 120,
+        "residentCount": 153,
+        "outcomes": 134,
+        "intakes": 144
+      },
+      {
+        "timestamp": "Wed Apr 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 94,
+        "residentCount": 120,
+        "outcomes": 107,
+        "intakes": 101
+      },
+      {
+        "timestamp": "Fri May 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 1,
+        "deceased": 75,
+        "residentCount": 99,
+        "outcomes": 84,
+        "intakes": 86
+      },
+      {
+        "timestamp": "Mon Jun 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 53,
+        "residentCount": 84,
+        "outcomes": 72,
+        "intakes": 69
+      },
+      {
+        "timestamp": "Wed Jul 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 2,
+        "deceased": 39,
+        "residentCount": 73,
+        "outcomes": 61,
+        "intakes": 61
+      },
+      {
+        "timestamp": "Sat Aug 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 55,
+        "residentCount": 100,
+        "outcomes": 88,
+        "intakes": 88
+      },
+      {
+        "timestamp": "Tue Sep 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 1,
+        "deceased": 49,
+        "residentCount": 63,
+        "outcomes": 52,
+        "intakes": 51
+      },
+      {
+        "timestamp": "Thu Oct 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 1,
+        "deceased": 66,
+        "residentCount": 104,
+        "outcomes": 89,
+        "intakes": 93
+      },
+      {
+        "timestamp": "Sun Nov 01 2015 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 2,
+        "deceased": 34,
+        "residentCount": 69,
+        "outcomes": 53,
+        "intakes": 54
+      },
+      {
+        "timestamp": "Tue Dec 01 2015 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 2,
+        "deceased": 23,
+        "residentCount": 48,
+        "outcomes": 39,
+        "intakes": 32
+      },
+      {
+        "timestamp": "Fri Jan 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 0,
+        "deceased": 32,
+        "residentCount": 67,
+        "outcomes": 49,
+        "intakes": 58
+      },
+      {
+        "timestamp": "Mon Feb 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 2,
+        "deceased": 47,
+        "residentCount": 74,
+        "outcomes": 56,
+        "intakes": 56
+      },
+      {
+        "timestamp": "Tue Mar 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 7,
+        "deceased": 185,
+        "residentCount": 229,
+        "outcomes": 207,
+        "intakes": 211
+      },
+      {
+        "timestamp": "Fri Apr 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 4,
+        "deceased": 68,
+        "residentCount": 96,
+        "outcomes": 77,
+        "intakes": 74
+      },
+      {
+        "timestamp": "Sun May 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 82,
+        "residentCount": 104,
+        "outcomes": 91,
+        "intakes": 85
+      },
+      {
+        "timestamp": "Wed Jun 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 9,
+        "deceased": 61,
+        "residentCount": 85,
+        "outcomes": 71,
+        "intakes": 72
+      },
+      {
+        "timestamp": "Fri Jul 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 47,
+        "residentCount": 77,
+        "outcomes": 60,
+        "intakes": 63
+      },
+      {
+        "timestamp": "Mon Aug 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 64,
+        "residentCount": 96,
+        "outcomes": 80,
+        "intakes": 79
+      },
+      {
+        "timestamp": "Thu Sep 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 19,
+        "deceased": 63,
+        "residentCount": 108,
+        "outcomes": 84,
+        "intakes": 92
+      },
+      {
+        "timestamp": "Sat Oct 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 3,
+        "deceased": 64,
+        "residentCount": 99,
+        "outcomes": 77,
+        "intakes": 75
+      },
+      {
+        "timestamp": "Tue Nov 01 2016 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 4,
+        "deceased": 46,
+        "residentCount": 74,
+        "outcomes": 56,
+        "intakes": 52
+      },
+      {
+        "timestamp": "Thu Dec 01 2016 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 4,
+        "deceased": 35,
+        "residentCount": 66,
+        "outcomes": 48,
+        "intakes": 48
+      },
+      {
+        "timestamp": "Sun Jan 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 7,
+        "deceased": 47,
+        "residentCount": 67,
+        "outcomes": 56,
+        "intakes": 49
+      },
+      {
+        "timestamp": "Wed Feb 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 7,
+        "deceased": 58,
+        "residentCount": 97,
+        "outcomes": 76,
+        "intakes": 86
+      },
+      {
+        "timestamp": "Wed Mar 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 7,
+        "deceased": 160,
+        "residentCount": 193,
+        "outcomes": 179,
+        "intakes": 172
+      },
+      {
+        "timestamp": "Sat Apr 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 76,
+        "residentCount": 129,
+        "outcomes": 117,
+        "intakes": 115
+      },
+      {
+        "timestamp": "Mon May 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 4,
+        "deceased": 49,
+        "residentCount": 74,
+        "outcomes": 57,
+        "intakes": 62
+      },
+      {
+        "timestamp": "Thu Jun 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 10,
+        "deceased": 92,
+        "residentCount": 148,
+        "outcomes": 117,
+        "intakes": 131
+      },
+      {
+        "timestamp": "Sat Jul 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 11,
+        "deceased": 72,
+        "residentCount": 126,
+        "outcomes": 99,
+        "intakes": 95
+      },
+      {
+        "timestamp": "Tue Aug 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 18,
+        "deceased": 82,
+        "residentCount": 126,
+        "outcomes": 106,
+        "intakes": 99
+      },
+      {
+        "timestamp": "Fri Sep 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 13,
+        "deceased": 46,
+        "residentCount": 96,
+        "outcomes": 84,
+        "intakes": 76
+      },
+      {
+        "timestamp": "Sun Oct 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 5,
+        "deceased": 75,
+        "residentCount": 97,
+        "outcomes": 82,
+        "intakes": 85
+      },
+      {
+        "timestamp": "Wed Nov 01 2017 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 29,
+        "residentCount": 55,
+        "outcomes": 43,
+        "intakes": 40
+      },
+      {
+        "timestamp": "Fri Dec 01 2017 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 3,
+        "deceased": 26,
+        "residentCount": 44,
+        "outcomes": 30,
+        "intakes": 32
+      },
+      {
+        "timestamp": "Mon Jan 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 8,
+        "deceased": 37,
+        "residentCount": 70,
+        "outcomes": 54,
+        "intakes": 56
+      },
+      {
+        "timestamp": "Thu Feb 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 6,
+        "deceased": 32,
+        "residentCount": 62,
+        "outcomes": 51,
+        "intakes": 46
+      },
+      {
+        "timestamp": "Thu Mar 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 6,
+        "deceased": 129,
+        "residentCount": 154,
+        "outcomes": 139,
+        "intakes": 143
+      },
+      {
+        "timestamp": "Sun Apr 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 0,
+        "deceased": 68,
+        "residentCount": 128,
+        "outcomes": 107,
+        "intakes": 113
+      },
+      {
+        "timestamp": "Tue May 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 11,
+        "deceased": 57,
+        "residentCount": 106,
+        "outcomes": 89,
+        "intakes": 85
+      },
+      {
+        "timestamp": "Fri Jun 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 55,
+        "residentCount": 88,
+        "outcomes": 70,
+        "intakes": 71
+      },
+      {
+        "timestamp": "Sun Jul 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 7,
+        "deceased": 49,
+        "residentCount": 81,
+        "outcomes": 57,
+        "intakes": 63
+      },
+      {
+        "timestamp": "Wed Aug 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 12,
+        "deceased": 43,
+        "residentCount": 74,
+        "outcomes": 58,
+        "intakes": 50
+      },
+      {
+        "timestamp": "Sat Sep 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 8,
+        "deceased": 50,
+        "residentCount": 75,
+        "outcomes": 59,
+        "intakes": 59
+      },
+      {
+        "timestamp": "Mon Oct 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 3,
+        "deceased": 56,
+        "residentCount": 83,
+        "outcomes": 62,
+        "intakes": 67
+      },
+      {
+        "timestamp": "Thu Nov 01 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 6,
+        "deceased": 33,
+        "residentCount": 69,
+        "outcomes": 45,
+        "intakes": 48
+      },
+      {
+        "timestamp": "Sat Dec 01 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 6,
+        "deceased": 21,
+        "residentCount": 60,
+        "outcomes": 36,
+        "intakes": 36
+      },
+      {
+        "timestamp": "Tue Jan 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 4,
+        "deceased": 15,
+        "residentCount": 49,
+        "outcomes": 24,
+        "intakes": 25
+      },
+      {
+        "timestamp": "Fri Feb 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 10,
+        "deceased": 38,
+        "residentCount": 81,
+        "outcomes": 54,
+        "intakes": 56
+      },
+      {
+        "timestamp": "Fri Mar 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 8,
+        "deceased": 97,
+        "residentCount": 135,
+        "outcomes": 111,
+        "intakes": 108
+      },
+      {
+        "timestamp": "Mon Apr 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 5,
+        "deceased": 69,
+        "residentCount": 114,
+        "outcomes": 91,
+        "intakes": 90
+      },
+      {
+        "timestamp": "Wed May 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 9,
+        "deceased": 28,
+        "residentCount": 76,
+        "outcomes": 43,
+        "intakes": 53
+      },
+      {
+        "timestamp": "Sat Jun 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 8,
+        "deceased": 67,
+        "residentCount": 123,
+        "outcomes": 95,
+        "intakes": 90
+      },
+      {
+        "timestamp": "Mon Jul 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 9,
+        "deceased": 58,
+        "residentCount": 128,
+        "outcomes": 97,
+        "intakes": 100
+      },
+      {
+        "timestamp": "Thu Aug 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 20,
+        "deceased": 37,
+        "residentCount": 96,
+        "outcomes": 63,
+        "intakes": 65
+      },
+      {
+        "timestamp": "Sun Sep 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 24,
+        "deceased": 33,
+        "residentCount": 94,
+        "outcomes": 62,
+        "intakes": 61
+      },
+      {
+        "timestamp": "Tue Oct 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 18,
+        "deceased": 44,
+        "residentCount": 96,
+        "outcomes": 65,
+        "intakes": 64
+      },
+      {
+        "timestamp": "Fri Nov 01 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+        "adopted": 10,
+        "deceased": 29,
+        "residentCount": 80,
+        "outcomes": 39,
+        "intakes": 49
+      },
+      {
+        "timestamp": "Sun Dec 01 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+        "adopted": 11,
+        "deceased": 24,
+        "residentCount": 92,
+        "outcomes": 55,
+        "intakes": 51
+      }
+    ]
+  }
+]
