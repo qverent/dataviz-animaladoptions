@@ -10,10 +10,17 @@ Polly Tang, Michael Zhang, [@qverent](https://github.com/qverent)
 This project features data from the Austin Animal Centre, which intakes 20,000 animals annually and whose work is a leading factor behind Austin, Texas’ status as the [“largest no-kill community”](http://www.austintexas.gov/page/no-kill-plan) in the US. Since 2011, the Centre has been able to maintain an extremely high survival outcome; its current save rate is [97%](https://www.austinpetsalive.org/about/our-story).
 
 This colour deficiency-safe tool was created with the shelter’s managers and communications team in mind. Using three distinct interactive visualizations and a statistics panel, the app presents data on animal outcomes collected
-from October 2013 to December 2019. The original dataset is available at [Data World](https://data.world/rebeccaclay/austin-tx-animal-center-stats).
+from October 2013 to December 2019. The original dataset is available at [Data World](https://data.world/rebeccaclay/austin-tx-animal-center-stats). The goal is to enable shelter managers to gain insight into trends and patterns behind shelter animal outcomes such that they may develop strategies to maintain or even increase animal survival rates.
 
 Users can identify trends in historical data, such as fluctuation of adoption rates by time of year or animal type, as well as comparison of animal demographics in terms of age and colour. This gives the users the opportunity to gain a better understanding of adoption preferences and focus on efforts to boost the chance of survival for historically overlooked animals due to characteristics such as age or colour.
 
+Questions that the tool aims can answer include: what kinds of animals are more likely to be adopted? Are there seasonal patterns that the shelter may better prepare for? Are there specific demographics of animals with exceptionally poor survival rates? Specific tasks that users may use this app to accomplish includes:
+* Discover extremes and trends (are there periods with particularly low adoption rates, or is this
+seasonal?)
+* Query by attributes (timeframe and outcome type)
+* Compare attributes (outcome and animal type)
+* Derive statistics (adoption rates per animal type)
+* Identify dependencies (ie .between adoption rates and animal characteristics)
 
 ## Data preprocessing
 Data preprocessing was done via an R script and some additional Javascript. The preprocessing step included binning the animal types to ‘dog’, ‘cat’ and ‘other’, binning the primary colour type of each animal (see R script for the binning specifics from 585 values to 11), handling missing data and ambiguous categories, and converting age strings (for example -- 4 weeks, or 3 months) into categories (for example -- young or senior).
@@ -25,7 +32,7 @@ This preprocessing step meaningfully groups outcomes, ages, and colours into bro
 We chose to use a line chart as we are representing temporal and continuous data. We used colour hue to differentiate the categorical attribute of animal type as it is one of the most effective channels for categorical data due to ease of perception and no learning curve. The brush is locked to one-month increments. This was done to facilitate the filtering of data in other charts; as well, it minimizes the number of x-axis ticks to every six months. This is important due to limited horizontal space.
 
 
-## Chart 2: Faceted small multiples chart showing individual animals in care of the Centre a selected timeframe
+## Chart 2: Faceted small multiples chart showing individual animals in care of the Centre during a selected timeframe
 This chart shows how the outcome (four categories: adopted, returned to owner, transferred, deceased) for animals varies based on its type (identify trends), and represents each animal as a mark in the chart to visually present the number of lives passing through this centre. By hovering on an individual dot, a tooltip appears to provide details specific to the individual animal.
 
 The legend serves as a filtering widget: by clicking legend label, the corresponding outcome is filtered out. This is extremely useful if the user wishes to make comparisons such as specific outcomes and animal types, or if they wish to analyze trends within one specific outcome type.
@@ -37,6 +44,9 @@ We chose to encode the data with point marks, using hue to differentiate between
 ## Chart 3: Histograms of animal age and colour groups
 Chart 3 implements linked highlighting with chart 2 so that users can see how each individual animal fits into the distribution of age and colour (present distribution, identify trends) of animals at the shelter. Data timeframe is controlled by the brush in chart 1 and users can see what attributes are more common in general, or during a certain timeframe (ie. more baby animals during breeding seasons). The counts for each animal are encoded in a histogram format as it is the simplest to visually present and compare trends across groups, and data from the large number of animals can be aggregated into a single view. This chart utilizes the same colour hue encoding as chart 1 so that there is a unified representation for animal types across the entire visualization.
 
+
+## Accessibility
+This app is colour-deficiency safe. Colours were initially chosen to echo the primary colour of the Austin Animal’s Centre’s logo and to convey a sense of friendliness and warmth. However, this was changed to prioritize colour-deficiency friendliness. Using the Colorblinding Chrome extension, we rendered the web app in protanopia (red-blind), deuteranopia (green-blind) and tritanopia (blue-blind) modes to ensure that the charts are still differentiable.
 
 ## Reflection
 We feel that one design spec we should have clarified at the beginning of the project is the target screen size.
