@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="css/chart2.css">
         <link rel="stylesheet" href="css/semantic-overrides.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/icon.min.css" integrity="sha256-KyXPF3/VOPPst/NQOzCWr97QMfSfzJLyFT0o5lYJXiQ=" crossorigin="anonymous" />
     </head>
     <body>
         <div class="ui grid container">
@@ -15,6 +16,13 @@
             </div>
             <div class="sixteen colum row">
                 <div class="sixteen wide column">
+                    <div class="ui message warning">
+                        <i class="close icon"></i>
+                        <div class="header">
+                          <i class="warning icon"></i>NOTE
+                        </div>
+                        <p>This is a demo of our data viz class capstone project (spring, 2020). For details on our design choices (e.g. marks, channels, chart types) and information on our team, check out the <a href="https://github.com/qverent/dataviz-animaladoptions">readme</a>.</p>
+                      </div>
                     <p>After establishing a no-kill implementation plan in 2010, Austin is the largest "no kill" community in the US. The current save rate at the Austin Animal Centre is <a href="https://www.austinpetsalive.org/about/our-story" target="_blankd">97%.</a></p>
                     <p>The Austin Animal Centre works with many rescue partners who help rehome and care for about <a href="https://www.austintexas.gov/department/rescue-partners">34%</a> of shelter residents. Adoption is still the backbone of any community's animal support strategy, and is one of the best outcomes possible for shelter residents. This app was created as an aid for shelter managers to identify trends in their animals' outcomes. Using this tool, they can identify and give under-adopted groups a helping hand with targeted media campaigns or create specific rehoming  partnerships.</p>
                     <p>This app uses <a href="https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes">data on Austin Animal Shelter</a>, from October 2013 to December 2019.</p>
@@ -164,6 +172,15 @@
         <script src="js/histogram.js"></script>
         <script src="js/chart3.js"></script>
         <script src="js/controller.js"></script>
-
+        <script>
+            $('.message .close')
+  .on('click', function() {
+    $(this)
+      .closest('.message')
+      .transition('fade')
+    ;
+  })
+;
+        </script>
     </body>
 </html>

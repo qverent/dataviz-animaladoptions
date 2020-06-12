@@ -1,4 +1,4 @@
-.ui > *{
+.ui > *:not(.icon){
     color: var(--font) !important;
     font-family: 'Comfortaa', cursive !important;
 }
